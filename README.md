@@ -1,5 +1,5 @@
 # Steam Locomotive
-Placeholder for steam locomotive (sl).
+Just for fun, TCP Wrapper for SteamLocomotive (sl)
 
 ## Docker
 
